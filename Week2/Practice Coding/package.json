@@ -1,0 +1,11 @@
+{
+  "name": "example1",
+  "version": "1.0.0",
+  "description": "node.js stuff",
+  "main": "coinFlipper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Martinez",
+  "license": "ISC"
+}

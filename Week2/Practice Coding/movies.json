@@ -1,0 +1,29 @@
+{
+	"movies": [
+		{
+			"name" : "Titanic",
+			"year" : "1997",
+			"genre" : "Drama Film/Disaster Film"
+		},
+		{
+			"name" : "Tarzan",
+			"year" : "1999",
+			"genre" : "Drama Film/Romance"
+		},
+		{
+			"name" : "Beauty and the Beast",
+			"year" : "1991",
+			"genre" : "Fantasy/Romance"
+		},
+		{
+			"name" : "Zootopia",
+			"year" : "2016",
+			"genre" : "Mystery/Crime Film"
+		},
+		{
+			"name" : "The Fault in our Stars",
+			"year" : "2014",
+			"genre" : "Drama Film/Comedy-drama"
+		}
+	]
+}

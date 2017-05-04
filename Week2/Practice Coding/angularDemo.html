@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html ng-app="my-app">
+	<head>
+		<link href="angularDemo.css" rel="stylesheet"
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.1/angular.js"></script>
+		<script src="angularDemo.js"></script>
+	</head>
+	<body ng-controller="mainCtrl" class="background">
+		<div class="col-lg-6 container">
+			<input type="number" ng-model="numbers.num1" />
+			<input type="number" ng-model="numbers.num2" />
+
+			<button ng-click="add();">+</button>
+			<button ng-click="subtract();">-</button>
+			<button ng-click="multiply();">*</button>
+			<button ng-click="divide();">/</button>
+
+			<p>{{result}}</p>
+		</div>
+	</body>
+</html>

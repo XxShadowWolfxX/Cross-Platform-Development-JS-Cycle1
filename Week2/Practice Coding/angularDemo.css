@@ -1,0 +1,12 @@
+.background {
+	background: radial-gradient(#DDDDDD, #555555);
+}
+
+.container {
+	margin: 0 auto;
+	background-color: #999999;
+	max-width: 500px;
+	max-height: 1000px;
+	border: 10px;
+	border-radius: 10px;
+}
